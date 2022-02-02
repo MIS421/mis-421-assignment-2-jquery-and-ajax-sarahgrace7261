@@ -1,1 +1,14 @@
- 
+body {
+    background-image: url(https://unsplash.com/photos/4rF9RftX4XA);
+    height: 500px;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+searchResults{
+    visibility: hidden;
+}
+time{
+    visibility:hidden;
+}
+
